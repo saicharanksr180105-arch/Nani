@@ -2,4 +2,4 @@
 this is my first repository
 kkkkk 
 <br>
--KSR author
+koya sai charan reddy author
